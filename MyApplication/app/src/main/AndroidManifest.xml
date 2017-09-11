@@ -18,7 +18,7 @@
         <activity android:name=".NumbersActivity" />
         <activity android:name=".PhrasesActivity" />
         <activity android:name=".ColorsActivity" />
-        <activity android:name=".FamilyActivity"></activity>
+        <activity android:name=".FamilyActivity"/>
     </application>
 
 </manifest>

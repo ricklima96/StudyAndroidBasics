@@ -16,4 +16,14 @@ public class NumbersActivity extends AppCompatActivity {
         setContentView(R.layout.activity_numbers);
 
     }
+
+    // create a list of words
+    ArrayList<String> words = new ArrayList<String>();
+
+
+
+
+
+
+
 }
